@@ -24,5 +24,4 @@ public class Problem_14 {
         }
         System.out.println(MaxNum + " " + maxChain);
     }
-
 }
