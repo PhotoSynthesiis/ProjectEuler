@@ -26,6 +26,7 @@
     <file path="/Problem_15.java" changelist="ab0efba8-f048-4866-893b-626ae9db5ea9" time="1368972701129" ignored="false" />
     <file path="/Problem015.java" changelist="ab0efba8-f048-4866-893b-626ae9db5ea9" time="1368808666101" ignored="false" />
     <file path="/Problem_16.java" changelist="ab0efba8-f048-4866-893b-626ae9db5ea9" time="1369297883879" ignored="false" />
+    <file path="/Problem_17.java" changelist="ab0efba8-f048-4866-893b-626ae9db5ea9" time="1369325498954" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +89,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Problem_16.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problems/Problem_16.java">
+      <file leaf-file-name="Problem_17.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problems/Problem_17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="245" selection-end="245" vertical-scroll-proportion="0.20547946">
+            <state line="73" column="55" selection-start="2948" selection-end="2948" vertical-scroll-proportion="0.8679245">
               <folding />
             </state>
           </provider>
@@ -107,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/problems/Problem_4.java" />
         <option value="$PROJECT_DIR$/src/problems/Problem_5.java" />
         <option value="$PROJECT_DIR$/src/problems/Problem_6.java" />
         <option value="$PROJECT_DIR$/src/problems/Problem_7.java" />
@@ -123,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/problems/Problem015.java" />
         <option value="$PROJECT_DIR$/src/problems/Problem_15.java" />
         <option value="$PROJECT_DIR$/src/problems/Problem_16.java" />
+        <option value="$PROJECT_DIR$/src/problems/Problem_17.java" />
       </list>
     </option>
   </component>
@@ -234,7 +235,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Problem_16">
+  <component name="RunManager" selected="Application.Problem_17">
     <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -254,34 +255,6 @@
       <module name="ProjectEuler" />
       <envs />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Problem_13" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="problems.Problem_13" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ProjectEuler" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -354,6 +327,34 @@
       <module name="ProjectEuler" />
       <envs />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem_17" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="problems.Problem_17" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProjectEuler" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -457,18 +458,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Problem_13" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Problem_14" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Problem_15" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Problem_16" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Problem_14" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Problem_15" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Problem_16" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Problem_17" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Problem_16" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Problem_15" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Problem_14" />
-        <item index="3" class="java.lang.String" itemvalue="Application.test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Problem_13" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Problem_17" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Problem_16" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Problem_15" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Problem_14" />
+        <item index="4" class="java.lang.String" itemvalue="Application.test" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -504,7 +505,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="805" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -525,7 +526,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20373027" sideWeight="0.73722625" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26277372" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26277372" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -598,16 +599,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/problems/Problem_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="418" selection-end="418" vertical-scroll-proportion="0.6264501" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems/Problem_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="32" selection-start="1229" selection-end="1229" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problems/Problem_6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="22" selection-start="534" selection-end="534" vertical-scroll-proportion="0.48723897" />
@@ -693,9 +684,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="13" selection-start="3716" selection-end="3716" vertical-scroll-proportion="1.5981735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problems/Problem_16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="245" selection-end="245" vertical-scroll-proportion="0.20547946">
+        <state line="6" column="14" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/Problem_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="55" selection-start="2948" selection-end="2948" vertical-scroll-proportion="0.8679245">
           <folding />
         </state>
       </provider>
